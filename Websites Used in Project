@@ -1,9 +1,0 @@
-#Link to Civilian unemployment 
-https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm
-##Our primary data set was extracted from Kaggle.com, from a set created by Paramartha Sengupta. Sengupta found the information on Microsoft stocks on given days from the years 2015 to 2021. The original dataset was created to estimate stock prices through technical analysis. The chosen variables, “Date, Open, High, Low, Close, Volume” assist in providing the most accurate depiction of the stock market trends given a specific day. The target variable within this dataset is the closing price of stock. Although this will not be our target variable, the outputs will assist in enhancing our findings.  
-
-#Link to S&P 500 SPY Daily Price History Kaggle dataset
-https://www.kaggle.com/datasets/gkitchen/s-and-p-500-spy
-##Our group chose Yahoo Finance S&P 500 index as our secondary data source. The Yahoo Finance S&P 500 index tracks the performance of 500 largely publicly traded companies in the United States. We plan to web scrape the site to find auxiliary data to assist our research. Possible uses may include comparison of stock prices, dates, and trends. This additional market context will allow us to refine our predictions.
-
-##The combination of Sengupta’s Microsoft Stock dataset and the Yahoo Finance S &P 500 Index, post web scraping, allows us a more holistic view of the stock’s behavior; Furthermore, using multiple data sources will allow for more adapt and accurate data models.
