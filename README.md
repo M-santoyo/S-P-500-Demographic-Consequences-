@@ -1,8 +1,8 @@
 # S&P-500-Demographic-Consequences
 
-# Stock Market Effects on Demographics
+## Stock Market Effects on Demographics
 
-## List of Data Sources Used
+## **List of Data Sources Used:**
 
 | Link # | Description                                      | URL |
 |--------|--------------------------------------------------|-----|
