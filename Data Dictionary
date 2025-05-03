@@ -1,0 +1,14 @@
+## Data Dictionary
+
+| Column Name      | Data Type    | Description                                                   |
+|------------------|--------------|---------------------------------------------------------------|
+| Date             | datetime64    | Date of the trading day                                      |
+| Open             | Float         | Opening price of the S&P 500 on that day                     |
+| High             | Float         | Highest price of the S&P 500 during the day                  |
+| Low              | Float         | Lowest price of the S&P 500 during the day                   |
+| Close            | Float         | Closing price of the S&P 500 on that day                     |
+| Volume           | Integer       | Number of shares traded on that day                          |
+| Closed Change    | Float         | % Change from the previous month’s closing price             |
+| Total Rate       | Float         | US total unemployment rate                                   |
+| Male Rate        | Float         | Unemployment rate among US males over 20                     |
+| Date (Unemployment) | Datetime    | Month and year of unemployment data                         |
