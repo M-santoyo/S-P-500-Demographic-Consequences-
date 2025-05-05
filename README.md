@@ -30,6 +30,6 @@ Auto ARIMA is used to model stock price trends by analyzing past price values an
 ## Key Observations
 Traditional statistical models like Linear Regression and kNN often struggle to capture the highly volatile nature of stock prices. Auto ARIMA performs better by identifying trends but lacks predictive power in unpredictable markets. Facebook Prophet captures seasonality well but falls short in accurately predicting price fluctuations driven by external factors.
 
-## Structure
+## Structure and Purpose
 
 We have divided up our files in our repository based on background information and actual anaylsis. We have a seperate file for our slides that contains all information about our findinds so far, the background to our data, our data dictionary, and more. We have a seperate file for the data dictionary so we can refer back to our variables easily. We have our csv and webscraping link in a seperate branch, merged with main and pushed, so that we can work on that data not in main. We have our three anaylsis questions seperated into different .ipynb files, in our main branch, so that we can organize our findings and data by questions which will make our work more efficient and organized. Finally, we have a file specifically for our master code which contains the code for answering all three analysis questions, their visualizations, hypothesis tests, and more, so that we have one set place to put everything in for when we need to submit our project. 
