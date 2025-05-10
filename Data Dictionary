@@ -11,4 +11,10 @@
 | Closed Change    | Float         | % Change from the previous month’s closing price             |
 | Total Rate       | Float         | US total unemployment rate                                   |
 | Male Rate        | Float         | Unemployment rate among US males over 20                     |
-| Date (Unemployment) | Datetime    | Month and year of unemployment data                         |
+| Female Rate      | Float         | US rate of unemployment in females over 20                   |
+| Teen Rate        | Float         | US total rate of unemployment in teens (16–19)               |
+| White rate       | Float         | US rate of unemployment in white people                      |
+| Black rate       | Float         | US rate of unemployment in black people                      |
+| Asian Rate       | Float         | US rate of unemployment in Asian people                      |
+| Hispanic rate    | Float         | US rate of unemployment in Hispanic people                   |
+| Unemployment change   | Float         | % change from total unemployment between months         |
